@@ -3,6 +3,7 @@ export default function HomePage() {
   return (
     <div>
       <h1>Home Page</h1>
+      <h3>testing git braching </h3>
       <p>
         In publishing and graphic design, Lorem ipsum is a placeholder text
         commonly used to demonstrate the visual form of a document or a typeface
