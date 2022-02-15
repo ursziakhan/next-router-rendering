@@ -3,7 +3,7 @@ import React from "react";
 function about() {
   return (
     <div>
-      <h1>This is about Page</h1>
+      <h1>This is about Page and testing with git</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
         ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
